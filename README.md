@@ -120,4 +120,42 @@
         <span style="color: #fa4616;">Join the swarm. Own the future. Rule the chain.</span>
       </div>
     </header>
-    <div class="features
+    <div class="features">
+      <h2>Warum THEDOG?</h2>
+      <ul>
+        <li>Blitzschnelle Transaktionen & niedrige Gebühren</li>
+        <li>Vollständig transparente und auditierte Smart Contracts</li>
+        <li>Starke, international verbundene Community</li>
+        <li>Keine Presale—faires Community-Launch</li>
+        <li>Team mit Diamond Hands—keine Dumps!</li>
+        <li>Memes, Spaß und Zusammenhalt rund um die Uhr</li>
+      </ul>
+    </div>
+    <div class="links">
+      <a href="https://t.me/+t6DzShIe6Ho4NzVi" target="_blank">Telegram Community</a>
+      <a href="https://join.pump.fun/HSag/98qj8uhh" target="_blank">Pump.Fun Launchpad</a>
+    </div>
+    <div class="tokenomics">
+      <h2>Tokenomics</h2>
+      <ul>
+        <li>85% in Liquidity Pools gesperrt – sichere und stabile Trades</li>
+        <li>8% für Marketing und Community Promotion</li>
+        <li>4% Team Tokens, für 2 Jahre gelockt</li>
+        <li>3% Community Rewards & Wettbewerbe</li>
+      </ul>
+    </div>
+    <div class="roadmap">
+      <h2>Roadmap</h2>
+      <ul>
+        <li>Phase 1: Launch & Community Aufbau</li>
+        <li>Phase 2: Wachstum & Meme-Expansion</li>
+        <li>Phase 3: Globale Partnerschaften & Ökosystem-Integration</li>
+      </ul>
+    </div>
+    <footer>
+      #THEDOG 2025 | To the Moon! 🚀<br>
+      Keine Finanzberatung. DYOR!
+    </footer>
+  </div>
+</body>
+</html>

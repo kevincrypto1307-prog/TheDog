@@ -95,7 +95,8 @@
     <section>
       <h2>Stieg ein in den MemeCoin-Hype!</h2>
       <p>Erlebe den Spaß und die Dynamik unseres neuen Meme Coins, der nicht nur Spaß macht, sondern auch echtes Potenzial hat!</p>
-      <img src="https://i.imgur.com/EzYuJi1.png" alt="MemeCoin Mascot" class="meme-image" />
+      <img src=![photo_2025-11-09_12-55-46](https://github.com/user-attachments/assets/5f0a9121-7649-4b3a-8db6-ca92898f68a6)
+"" alt="MemeCoin Mascot" class="meme-image" />
       <a href="https://join.pump.fun/HSag/98qj8uhh" target="_blank" class="btn-buy">Jetzt Kaufen 🚀</a>
     </section>
 

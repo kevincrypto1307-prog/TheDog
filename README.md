@@ -3,159 +3,65 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>THEDOG — DeFi Revolution</title>
+  <title>THEDOG — The Next-Gen Meme Coin</title>
   <style>
+    @import url('https://fonts.googleapis.com/css?family=Montserrat:700,900&display=swap');
     body {
-      background: #1a1b1f;
+      margin:0;
+      padding:0;
+      background: linear-gradient(135deg, #0e1a23 0%, #271407 100%);
       color: #fff;
-      font-family: 'Segoe UI', Arial, sans-serif;
-      margin: 0; padding: 0;
+      font-family: 'Montserrat', Arial, sans-serif;
+      min-height: 100vh;
     }
-    .container {
+    .main-wrap {
       max-width: 900px;
       margin: 0 auto;
-      padding: 30px 20px;
+      padding: 24px 12px 48px 12px;
     }
     header {
-      text-align: center;
-      margin-bottom: 20px;
+      text-align:center;
+      margin-bottom: 24px;
     }
-    header img {
-      max-width: 400px;
-      width: 100%;
-      border-radius: 18px;
-      box-shadow: 0 0 28px #fa4616;
-      margin-bottom: 18px;
+    .hero-img {
+      width:340px;
+      max-width: 95vw;
+      border-radius:14px;
+      margin: 22px 0 10px 0;
+      box-shadow: 0 0 44px #ff7c1a;
     }
     h1 {
-      font-size: 2.3em;
-      color: #fa4616;
-      font-weight: 700;
-      margin-bottom: 16px;
+      font-size:2.6em;
+      font-weight: 900;
+      margin-bottom:6px;
+      color:#ff7c1a;
       letter-spacing: 1.5px;
+      text-shadow: 0 3px 10px #19191944;
     }
-    .highlight {
-      background: #222d44;
-      border-radius: 8px;
-      font-size: 1.2em;
-      padding: 16px 10px;
-      margin-bottom: 14px;
-      color: #19e5d8;
-      box-shadow: 0 0 12px #222d44;
+    .tagline {
+      font-size: 1.32em;
+      color: #13ffde;
+      margin-bottom: 15px;
+      line-height: 1.4;
+      letter-spacing: 0.5px;
     }
-    .features {
-      background: #282a36;
+    .section {
+      background: #161720cc;
       border-radius: 10px;
-      padding: 20px;
-      margin-top: 18px;
-      box-shadow: 0 0 10px #fa4616;
+      margin: 22px 0;
+      padding: 24px 18px;
+      box-shadow: 0 0 8px #27140777;
     }
-    .features h2 {
-      color: #fa4616;
-      margin-top: 0;
-      font-size: 1.4em;
+    .section h2 {
+      color: #ff7c1a;
+      text-transform: uppercase;
+      font-size: 1.18em;
+      letter-spacing:1px;
+      margin-top:0;
     }
-    ul {
-      list-style: none; padding: 0;
+    .section ul, .section p {
+      font-size: 1.12em;
     }
-    ul li {
-      margin-bottom: 10px;
-      font-size: 1.09em;
-      padding-left: 20px;
-      position: relative;
-    }
-    ul li:before {
-      content: "🚀";
-      position: absolute;
-      left: 0;
-    }
-    .links {
-      text-align: center;
-      margin: 28px 0;
-    }
-    .links a {
-      background: #19e5d8;
-      color: #131313;
-      padding: 12px 30px;
-      border-radius: 8px;
-      font-weight: bold;
-      text-decoration: none;
-      margin: 0 8px;
-      transition: background 0.2s;
-      box-shadow: 0 0 8px #19e5d8;
-      display: inline-block;
-    }
-    .links a:hover {
-      background: #fa4616; color: #fff;
-      box-shadow: 0 0 18px #fa4616;
-    }
-    .tokenomics, .roadmap {
-      background: #161720;
-      color: #cfd8dc;
-      border-radius: 11px;
-      padding: 18px 14px;
-      margin-top: 22px;
-      box-shadow: 0 0 8px #222d44;
-    }
-    .tokenomics h2, .roadmap h2 {
-      color: #19e5d8;
-      margin-bottom: 8px;
-      font-size: 1.1em;
-    }
-    footer {
-      text-align: center;
-      color: #aaa;
-      margin-top: 32px;
-      font-size: 0.9em;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <header>
-      <img src="photo_2025-11-09_12-55-46.jpg" alt="THEDOG Banner">
-      <h1>THEDOG — Born to Dominate DeFi</h1>
-      <div class="highlight">
-        In einer Welt voller leerer Krypto-Versprechen steigt THEDOG auf mit echtem Power, Geschwindigkeit und Community-Vertrauen. Mehr als ein Token — THEDOG ist ein Statement für Innovation, Stärke und Freiheit.<br>
-        <span style="color: #fa4616;">Join the swarm. Own the future. Rule the chain.</span>
-      </div>
-    </header>
-    <div class="features">
-      <h2>Warum THEDOG?</h2>
-      <ul>
-        <li>Blitzschnelle Transaktionen & niedrige Gebühren</li>
-        <li>Vollständig transparente und auditierte Smart Contracts</li>
-        <li>Starke, international verbundene Community</li>
-        <li>Keine Presale—faires Community-Launch</li>
-        <li>Team mit Diamond Hands—keine Dumps!</li>
-        <li>Memes, Spaß und Zusammenhalt rund um die Uhr</li>
-      </ul>
-    </div>
-    <div class="links">
-      <a href="https://t.me/+t6DzShIe6Ho4NzVi" target="_blank">Telegram Community</a>
-      <a href="https://join.pump.fun/HSag/98qj8uhh" target="_blank">Pump.Fun Launchpad</a>
-    </div>
-    <div class="tokenomics">
-      <h2>Tokenomics</h2>
-      <ul>
-        <li>85% in Liquidity Pools gesperrt – sichere und stabile Trades</li>
-        <li>8% für Marketing und Community Promotion</li>
-        <li>4% Team Tokens, für 2 Jahre gelockt</li>
-        <li>3% Community Rewards & Wettbewerbe</li>
-      </ul>
-    </div>
-    <div class="roadmap">
-      <h2>Roadmap</h2>
-      <ul>
-        <li>Phase 1: Launch & Community Aufbau</li>
-        <li>Phase 2: Wachstum & Meme-Expansion</li>
-        <li>Phase 3: Globale Partnerschaften & Ökosystem-Integration</li>
-      </ul>
-    </div>
-    <footer>
-      #THEDOG 2025 | To the Moon! 🚀<br>
-      Keine Finanzberatung. DYOR!
-    </footer>
-  </div>
-</body>
-</html>
+    .key-points {
+      font-size: 1.13em;
+      margin

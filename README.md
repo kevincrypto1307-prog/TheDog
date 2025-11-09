@@ -1,4 +1,3 @@
-# TheDog[index_Version2.html](https://github.com/user-attachments/files/23438760/index_Version2.html)
 <!DOCTYPE html>
 <html lang="de">
 <head>
